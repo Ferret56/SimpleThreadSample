@@ -1,8 +1,5 @@
 package Sample;
-
 import Sample.Threads.SimpleThread;
-
-import java.sql.SQLOutput;
 
 public class ThreadSample {
     public static void main(String[] args) {

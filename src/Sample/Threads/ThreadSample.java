@@ -1,4 +1,4 @@
-package Sample;
+package Sample.Threads;
 import Sample.Threads.SimpleThread;
 
 public class ThreadSample {
